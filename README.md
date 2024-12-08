@@ -48,7 +48,7 @@ The API key needs `Upload Mods`, `Publish Mods` and `Edit Mods` permissions. Cop
 
 Now you need to go to your repository settings > `Secrets and variables` > `Actions` and add a new Repository secret called `FACTORIO_TOKEN` with your copied key as the secret.
 
-## Mod setup
+## Mod setup 
 
 - Swap out the [`LICENSE`](LICENSE) to your own liking _**(especially change out my name for yours)**_
 - Populate the [`info.json`](info.json) file with correct values _(the `version` field gets updated automatically)_
